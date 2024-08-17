@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zPi0D1e+zQo=",
+  "dgSpecHash": "FZuYfog+eoQ=",
   "success": true,
-  "projectFilePath": "/Users/robsonferreiramiranda/Documents/upik/projeto-academy-upik/projeto-match-upik/matchlikephoto/MatchLikePhoto/MatchLikePhoto.csproj",
+  "projectFilePath": "/Users/robsonferreiramiranda/Documents/upik/projeto-academy-upik/github/projeto-like-academy/matchlikephoto/MatchLikePhoto/MatchLikePhoto.csproj",
   "expectedPackageFiles": [
     "/Users/robsonferreiramiranda/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
     "/Users/robsonferreiramiranda/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
