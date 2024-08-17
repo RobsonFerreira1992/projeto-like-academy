@@ -1,0 +1,48 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+matchlikephotoview/node_modules
+matchlikephotoview/.pnp
+matchlikephotoview/.pnp.js
+
+# testing
+matchlikephotoview/coverage
+
+# next.js
+matchlikephotoview/.next/
+matchlikephotoview/out/
+matchlikephotoview/.vscode
+# production
+matchlikephotoview/build
+
+# misc
+matchlikephotoview/.DS_Store
+matchlikephotoview/*.pem
+
+# debug
+matchlikephotoview/npm-debug.log*
+matchlikephotoview/yarn-debug.log*
+matchlikephotoview/yarn-error.log*
+
+# local env files
+
+matchlikephotoview/.env.development.local
+matchlikephotoview/.env.test.local
+matchlikephotoview/.env.production.local
+
+
+# vercel
+matchlikephotoview/.vercel
+
+matchlikephotoview/vscode
+
+# Sentry Config File
+
+
+
+
+
+# Build
+matchlikephotoview/public/sw.js
+matchlikephotoview/public/sw.js.map
+

@@ -1,0 +1,21 @@
+{
+  "name": "Upik - Nova Jornada",
+  "short_name": "Upik - Nova Jornada",
+  "icons": [
+    {
+      "src": "/img/favicon.png",
+      "type": "image/png",
+      "sizes": "89x46"
+    },
+    {
+      "src": "/img/favicon.png",
+      "type": "image/png",
+      "sizes": "89x46"
+    }
+  ],
+  "background_color": "#7F0BA4",
+  "description": "Seu ambiente em até 2 horas. Do seu jeito!",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#7F0BA4"
+}

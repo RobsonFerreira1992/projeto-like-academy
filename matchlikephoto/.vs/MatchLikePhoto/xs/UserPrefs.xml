@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{16E16782-6D8B-42A9-BD9E-A3CD8E403A7C}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MatchLikePhoto/Controllers/ImagesController.cs">
+    <Files>
+      <File FileName="MatchLikePhoto/Handlers/LoadImagesCommand.cs" Line="1" Column="1" />
+      <File FileName="MatchLikePhoto/Handlers/LoadImagesCommandHandler.cs" Line="1" Column="1" />
+      <File FileName="MatchLikePhoto/Handlers/UpdateImageRatingCommand.cs" Line="1" Column="1" />
+      <File FileName="MatchLikePhoto/Handlers/UpdateImageRatingCommandHandler.cs" Line="1" Column="1" />
+      <File FileName="MatchLikePhoto/Controllers/ImagesController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MatchLikePhoto" expanded="True">
+            <Node name="MatchLikePhoto" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ImagesController.cs" selected="True" />
+              </Node>
+              <Node name="Handlers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MatchLikePhoto PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
