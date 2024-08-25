@@ -48,7 +48,7 @@ Este projeto é um backend desenvolvido em C# com .NET, projetado para gerenciar
 
  ### 5. Explicação do Uso do Mediator
 
-```bash
+
 ## Por que usamos o Mediator na Aplicação?
 
 O padrão **Mediator** é utilizado nesta aplicação para promover uma comunicação desacoplada entre diferentes partes do sistema, como controladores, handlers e serviços. Em um sistema sem Mediator, o código pode se tornar complexo e difícil de manter, pois diferentes partes do sistema se comunicam diretamente umas com as outras.
@@ -65,6 +65,7 @@ O padrão **Mediator** é utilizado nesta aplicação para promover uma comunica
 
 Nesta aplicação, o Mediator é utilizado para:
 -  Quando o controlador precisa carregar imagens, ele envia um comando ao Mediator, que delega essa responsabilidade a um handler específico.
+
 ![Captura de Tela 2024-08-25 às 10 11 24](https://github.com/user-attachments/assets/31d8793b-d43e-4591-a455-9150c061ec64)
 
 
