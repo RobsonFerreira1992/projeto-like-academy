@@ -46,7 +46,7 @@ Este projeto é um backend desenvolvido em C# com .NET, projetado para gerenciar
 ![Captura de Tela 2024-08-25 às 10 07 17](https://github.com/user-attachments/assets/69351e8e-c9f3-40d8-bfa1-e2dbb520f085)
 
 
-### 5. **Explicação do Uso do Mediator**
+### 5. Explicação do Uso do Mediator
 
 ```markdown
 ## Por que usamos o Mediator na Aplicação?
