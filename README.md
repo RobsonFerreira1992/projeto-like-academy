@@ -43,6 +43,7 @@ Este projeto é um backend desenvolvido em C# com .NET, projetado para gerenciar
 
     yarn dev
 
+![Captura de Tela 2024-08-25 às 10 07 17](https://github.com/user-attachments/assets/69351e8e-c9f3-40d8-bfa1-e2dbb520f085)
 
 
 ### 5. **Explicação do Uso do Mediator**
@@ -63,8 +64,14 @@ O padrão **Mediator** é utilizado nesta aplicação para promover uma comunica
 ### Como o Mediator é Usado na Aplicação:
 
 Nesta aplicação, o Mediator é utilizado para:
-- **Carregar Imagens:** Quando o controlador precisa carregar imagens, ele envia um comando ao Mediator, que delega essa responsabilidade a um handler específico.
+-  Quando o controlador precisa carregar imagens, ele envia um comando ao Mediator, que delega essa responsabilidade a um handler específico.
+![Captura de Tela 2024-08-25 às 10 11 24](https://github.com/user-attachments/assets/31d8793b-d43e-4591-a455-9150c061ec64)
+
+
 - **Atualizar Likes e Dislikes:** Da mesma forma, quando o usuário dá um like ou dislike em uma imagem, um comando é enviado ao Mediator, que atualiza o estado da imagem através de um handler.
+
+![Captura de Tela 2024-08-25 às 10 15 37](https://github.com/user-attachments/assets/8ded2274-9e9a-413c-9290-b2faf6af464a)
+
 
 Isso torna o código modular e flexível, permitindo a adição de novas funcionalidades com impacto mínimo no restante do sistema.
 ## Como Executar o Projeto
