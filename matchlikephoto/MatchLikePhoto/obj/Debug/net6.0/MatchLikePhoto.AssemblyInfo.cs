@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatchLikePhoto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+509b797fad86e73c6796179294c1ff808df7b0af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee5849bdc633dc88a562cc8b10f4ac234575d885")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatchLikePhoto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatchLikePhoto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
