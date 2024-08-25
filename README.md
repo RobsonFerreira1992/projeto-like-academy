@@ -1,4 +1,4 @@
-# Projeto PROJETO-LIKE-ACADEMY Academy
+# Projeto PROJETO-LIKE-ACADEMY 
 
 Este projeto é um backend desenvolvido em C# com .NET, projetado para gerenciar ações de "like" e "dislike" em imagens. Ele utiliza o padrão Mediator para gerenciar a comunicação entre componentes e manter uma arquitetura limpa e escalável.
 
